@@ -1,0 +1,1 @@
+java -cp "./cryptor.jar;C:\Program Files\JavaSoft\JRE\1.3.1_04\lib\ext\ibmjceprovider.jar;C:\Program Files\JavaSoft\JRE\1.3.1_04\lib\ext\ibmjcefw.jar" com.ibm.cryptor.Decryptor %1 %2

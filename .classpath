@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="src" path=""/>
+    <classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+    <classpathentry kind="lib" path="D:/SQLLIB/java/db2java.zip"/>
+    <classpathentry kind="lib" path="D:/Program Files/IBM/Application Developer Integration Edition/jre/lib/ext/ibmjcefw.jar"/>
+    <classpathentry kind="lib" path="D:/Program Files/IBM/Application Developer Integration Edition/jre/lib/ext/ibmjceprovider.jar"/>
+    <classpathentry kind="output" path=""/>
+</classpath>

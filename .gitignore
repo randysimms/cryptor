@@ -1,0 +1,7 @@
+
+*.class
+*.zip
+original/ver1/Decryptor.java
+original/ver1/MANIFEST.MF
+original/ver2/cryptor.bat
+original/ver2/cryptor.jar
